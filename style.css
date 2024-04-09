@@ -25,6 +25,8 @@ main {
     background-color: #f3223b;
     color: white;
     padding-left: 1rem;
+    position: sticky;
+    top: 0;
 }
 .store-list .heading h2 {
     padding: 0 1rem;
