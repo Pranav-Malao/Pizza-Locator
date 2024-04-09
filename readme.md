@@ -10,7 +10,7 @@ This project majorly showcases the **Leaflet js** and **openstreetmap**, which i
 
 Leaflet JS a lightweight opensource librery for displaying maps
 
-[![Watch the video](https://drive.google.com/uc?export=download&id=1DC7kZsQx2g6ZcGh8xEo5kUQAA7zSpXie)](https://drive.google.com/file/d/1DC7kZsQx2g6ZcGh8xEo5kUQAA7zSpXie/view?usp=sharing)
+<iframe src="https://drive.google.com/file/d/1DC7kZsQx2g6ZcGh8xEo5kUQAA7zSpXie/preview" width="640" height="480"></iframe>
 
 ## Features
 
